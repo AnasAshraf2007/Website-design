@@ -5,7 +5,7 @@ box-sizing:border-box;
 font-family:'Poppins',sans-serif;
 }
 body{
-background-image:url(space.jpg);
+background-image:url(Space.jpg);
 display:flex;
 justify-content: center;
 align-items: center;
